@@ -26,5 +26,29 @@ console .log('hello world!')
 <!--Rn, I just created a folder for my images using the folder icon in explorer-->
 
 
-![Profile Picture!](Profile_picture.png)
+![Profile Picture!](/images/Profile%20pics/Profile_picture.png)
+
+<!--Question- How do I change the sizing of my images-->
+
+<!--Delete Readme.md, go to getboottrap.com, go to Intro, copy bootstap CSSc and javascript-->
+
+ 
+<!--
+
+ <!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+  </head>
+  <body>
+    <h1>Hello, world!</h1>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
+  </body>
+</html>
+-->
+
+
 
